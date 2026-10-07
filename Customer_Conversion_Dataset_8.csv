@@ -1,0 +1,51 @@
+Customer_ID,Sign_up_Date,Trial_Status,Subscription_Status,Conversion_Date,Marketing_Channel,Region,Customer_Segment
+101,2026-07-01,Yes,Yes,2026-07-10,Email,South,Individual
+102,2026-07-01,Yes,No,,Social Media,North,Business
+103,2026-07-02,No,No,,Search,East,Individual
+104,2026-07-02,Yes,Yes,2026-07-11,Referral,West,Business
+105,2026-07-03,Yes,No,,Email,South,Individual
+106,2026-07-03,Yes,No,,Social Media,North,Business
+107,2026-07-04,No,No,,Search,East,Individual
+108,2026-07-04,Yes,Yes,2026-07-12,Referral,West,Business
+109,2026-07-05,Yes,No,,Email,South,Individual
+110,2026-07-05,Yes,Yes,2026-07-13,Social Media,North,Business
+111,2026-07-06,Yes,No,,Search,East,Individual
+112,2026-07-06,No,No,,Referral,West,Business
+113,2026-07-07,Yes,Yes,2026-07-14,Email,South,Individual
+114,2026-07-07,Yes,No,,Social Media,North,Business
+115,2026-07-08,No,No,,Search,East,Individual
+116,2026-07-08,Yes,Yes,2026-07-15,Referral,West,Business
+117,2026-07-09,Yes,No,,Email,South,Individual
+118,2026-07-09,Yes,Yes,2026-07-16,Social Media,North,Business
+119,2026-07-10,No,No,,Search,East,Individual
+120,2026-07-10,Yes,No,,Referral,West,Business
+121,2026-07-11,Yes,Yes,2026-07-17,Email,South,Individual
+122,2026-07-11,Yes,No,,Social Media,North,Business
+123,2026-07-12,No,No,,Search,East,Individual
+124,2026-07-12,Yes,Yes,2026-07-18,Referral,West,Business
+125,2026-07-13,Yes,No,,Email,South,Individual
+126,2026-07-13,Yes,Yes,2026-07-19,Social Media,North,Business
+127,2026-07-14,No,No,,Search,East,Individual
+128,2026-07-14,Yes,No,,Referral,West,Business
+129,2026-07-15,Yes,Yes,2026-07-20,Email,South,Individual
+130,2026-07-15,Yes,No,,Social Media,North,Business
+131,2026-07-16,No,No,,Search,East,Individual
+132,2026-07-16,Yes,Yes,2026-07-21,Referral,West,Business
+133,2026-07-17,Yes,No,,Email,South,Individual
+134,2026-07-17,Yes,Yes,2026-07-22,Social Media,North,Business
+135,2026-07-18,No,No,,Search,East,Individual
+136,2026-07-18,Yes,No,,Referral,West,Business
+137,2026-07-19,Yes,Yes,2026-07-23,Email,South,Individual
+138,2026-07-19,Yes,No,,Social Media,North,Business
+139,2026-07-20,No,No,,Search,East,Individual
+140,2026-07-20,Yes,Yes,2026-07-24,Referral,West,Business
+141,2026-07-21,Yes,No,,Email,South,Individual
+142,2026-07-21,Yes,No,,Social Media,North,Business
+143,2026-07-22,No,No,,Search,East,Individual
+144,2026-07-22,Yes,Yes,2026-07-25,Referral,West,Business
+145,2026-07-23,Yes,No,,Email,South,Individual
+146,2026-07-23,Yes,Yes,2026-07-26,Social Media,North,Business
+147,2026-07-24,No,No,,Search,East,Individual
+148,2026-07-24,Yes,No,,Referral,West,Business
+149,2026-07-25,Yes,Yes,2026-07-28,Email,South,Individual
+150,2026-07-25,Yes,No,,Social Media,North,Business
